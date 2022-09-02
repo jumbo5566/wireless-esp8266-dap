@@ -10,8 +10,8 @@
 #ifndef __WIFI_CONFIGURATION__
 #define __WIFI_CONFIGURATION__
 
-#define WIFI_SSID "DAP"
-#define WIFI_PASS "12345678"
+#define WIFI_SSID "TZB"
+#define WIFI_PASS "13902982913"
 
 static struct {
     const char *ssid;
@@ -33,8 +33,8 @@ static struct {
 
 #define USE_STATIC_IP 1
 // If you don't want to specify the ip configuration, then ignore the following items.
-#define DAP_IP_ADDRESS 192, 168, 137, 123
-#define DAP_IP_GATEWAY 192, 168, 137, 1
+#define DAP_IP_ADDRESS 192, 168, 83, 3
+#define DAP_IP_GATEWAY 192, 168, 83, 1
 #define DAP_IP_NETMASK 255, 255, 255, 0
 //
 
