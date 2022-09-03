@@ -7,8 +7,8 @@ on:
       - 'circuit'
 
 
-# env:
-#   UPLOAD_USER_FIRMWARE: false
+ env:
+   UPLOAD_USER_FIRMWARE: true
 
 
 jobs:
